@@ -1,6 +1,6 @@
 # NASA EONET Natural Events Geospatial Analysis
 
-A comprehensive geospatial analysis and visualization suite for natural disaster events from NASA's Earth Observatory Natural Event Tracker (EONET) API, spanning 2002-2025.
+A geospatial analysis and visualization suite for natural disaster events from NASA's Earth Observatory Natural Event Tracker (EONET) API, spanning 2000-2025.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ This project provides advanced geospatial analysis and visualization capabilitie
 
 - **Source**: NASA EONET API
 - **Events**: 5,393 natural disasters
-- **Time Period**: 2002 - 2025
+- **Time Period**: 2000 - 2025
 - **Geographic Coverage**: Global
 - **Primary Categories**: Wildfires (99%), Severe Storms, Floods, Volcanoes, Sea and Lake Ice
 
@@ -50,40 +50,9 @@ This project provides advanced geospatial analysis and visualization capabilitie
 - Regional trend analysis
 - Statistical overlays and contour mapping
 
-## Installation
 
-```bash
-# Install required packages
-pip install pandas numpy matplotlib seaborn plotly folium scikit-learn scipy
-
-# Clone repository
-git clone [repository-url]
-cd eonet-analysis
 ```
-
-## Usage
-
-Run the analysis pipeline in sequence:
-
-```bash
-# 1. Load and clean data
-python 01_data_loading.py
-
-# 2. Exploratory data analysis
-python 02_exploratory_analysis.py
-
-# 3. Standard geospatial visualizations
-python 03_geospatial_visualization.py
-
-# 4. Advanced spatial analysis
-python 04_advanced_analysis.py
-
-# 5. Ultimate visualization suite (optional)
-python 03_geospatial_visualization_ULTIMATE.py
-```
-
 ## Output Structure
-
 ```
 project/
 ├── eonet_cleaned.csv                 # Processed dataset
@@ -186,27 +155,6 @@ Access `ultimate_geospatial/3d_visualizations/3d_globe_interactive.html` for rot
 - Clustering performed on standardized coordinates
 - KDE bandwidth selected using Scott's rule
 - Publication figures exported at 300 DPI for print quality
-
-## Future Enhancements
-
-- Real-time data integration via EONET API
-- Predictive modeling for event probability
-- Network analysis for event propagation
-- Time-series forecasting with ARIMA/Prophet
-- Integration with climate and population datasets
-- Automated report generation
-
-## License
-
-This project is available for educational and research purposes.
-
-## Contact
-
-[Your Name]  
-[Your Email]  
-[LinkedIn/GitHub URL]
-
-## Acknowledgments
 
 Data provided by NASA's Earth Observatory Natural Event Tracker (EONET) API.
 
