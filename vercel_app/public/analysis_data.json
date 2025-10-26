@@ -1,0 +1,515 @@
+{
+  "generated_at": "2025-10-26T14:13:15.671305",
+  "metadata": {
+    "total_observations": 69899,
+    "unique_events": 15242,
+    "date_range": {
+      "start": "1980-01-10",
+      "end": "2025-10-25"
+    },
+    "years_tracked": 46
+  },
+  "executive_metrics": {
+    "total_observations": 69899,
+    "unique_events": 15242,
+    "category_counts": {
+      "Severe Storms": 53539,
+      "Wildfires": 11307,
+      "Sea and Lake Ice": 3590,
+      "Volcanoes": 1126,
+      "Floods": 316,
+      "Earthquakes": 13,
+      "Drought": 3,
+      "Dust and Haze": 2,
+      "Landslides": 2,
+      "Water Color": 1
+    }
+  },
+  "hotspots": [
+    {
+      "latitude": 15.0,
+      "longitude": -105.0,
+      "count": 749,
+      "primary_category": "Severe Storms",
+      "title": "Hurricane Activity Zone"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": -110.0,
+      "count": 747,
+      "primary_category": "Severe Storms",
+      "title": "Hurricane Activity Zone"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": -110.0,
+      "count": 677,
+      "primary_category": "Severe Storms",
+      "title": "Hurricane Activity Zone"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": -115.0,
+      "count": 618,
+      "primary_category": "Severe Storms",
+      "title": "Region 20\u00b0, -115\u00b0"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 125.0,
+      "count": 602,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": -115.0,
+      "count": 587,
+      "primary_category": "Severe Storms",
+      "title": "Region 15\u00b0, -115\u00b0"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 130.0,
+      "count": 563,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 120.0,
+      "count": 547,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 115.0,
+      "count": 544,
+      "primary_category": "Severe Storms",
+      "title": "Region 20\u00b0, 115\u00b0"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 130.0,
+      "count": 535,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 125.0,
+      "count": 506,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": -120.0,
+      "count": 500,
+      "primary_category": "Severe Storms",
+      "title": "Region 15\u00b0, -120\u00b0"
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 125.0,
+      "count": 498,
+      "primary_category": "Severe Storms",
+      "title": "Region 25\u00b0, 125\u00b0"
+    },
+    {
+      "latitude": 35.0,
+      "longitude": -110.0,
+      "count": 490,
+      "primary_category": "Wildfires",
+      "title": "California Fire Zone"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 110.0,
+      "count": 462,
+      "primary_category": "Severe Storms",
+      "title": "Region 20\u00b0, 110\u00b0"
+    },
+    {
+      "latitude": 40.0,
+      "longitude": -120.0,
+      "count": 462,
+      "primary_category": "Wildfires",
+      "title": "California Fire Zone"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": -120.0,
+      "count": 450,
+      "primary_category": "Severe Storms",
+      "title": "Region 20\u00b0, -120\u00b0"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 135.0,
+      "count": 445,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 135.0,
+      "count": 441,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": -125.0,
+      "count": 438,
+      "primary_category": "Severe Storms",
+      "title": "Region 15\u00b0, -125\u00b0"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": -100.0,
+      "count": 428,
+      "primary_category": "Severe Storms",
+      "title": "Hurricane Activity Zone"
+    },
+    {
+      "latitude": 35.0,
+      "longitude": -120.0,
+      "count": 426,
+      "primary_category": "Wildfires",
+      "title": "California Fire Zone"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 120.0,
+      "count": 397,
+      "primary_category": "Severe Storms",
+      "title": "Pacific Typhoon Belt"
+    },
+    {
+      "latitude": 20.0,
+      "longitude": 140.0,
+      "count": 395,
+      "primary_category": "Severe Storms",
+      "title": "Region 20\u00b0, 140\u00b0"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 115.0,
+      "count": 387,
+      "primary_category": "Severe Storms",
+      "title": "Region 15\u00b0, 115\u00b0"
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 130.0,
+      "count": 384,
+      "primary_category": "Severe Storms",
+      "title": "Region 25\u00b0, 130\u00b0"
+    },
+    {
+      "latitude": 45.0,
+      "longitude": -115.0,
+      "count": 375,
+      "primary_category": "Wildfires",
+      "title": "California Fire Zone"
+    },
+    {
+      "latitude": -15.0,
+      "longitude": 130.0,
+      "count": 362,
+      "primary_category": "Wildfires",
+      "title": "Region -15\u00b0, 130\u00b0"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 140.0,
+      "count": 354,
+      "primary_category": "Severe Storms",
+      "title": "Region 15\u00b0, 140\u00b0"
+    },
+    {
+      "latitude": 45.0,
+      "longitude": -120.0,
+      "count": 350,
+      "primary_category": "Wildfires",
+      "title": "California Fire Zone"
+    }
+  ],
+  "seasonal_patterns": [
+    {
+      "month": 1,
+      "month_name": "Jan",
+      "total_events": 3960,
+      "storms": 3287,
+      "wildfires": 350
+    },
+    {
+      "month": 2,
+      "month_name": "Feb",
+      "total_events": 4565,
+      "storms": 3917,
+      "wildfires": 277
+    },
+    {
+      "month": 3,
+      "month_name": "Mar",
+      "total_events": 4383,
+      "storms": 3471,
+      "wildfires": 421
+    },
+    {
+      "month": 4,
+      "month_name": "Apr",
+      "total_events": 2832,
+      "storms": 1974,
+      "wildfires": 376
+    },
+    {
+      "month": 5,
+      "month_name": "May",
+      "total_events": 3561,
+      "storms": 2097,
+      "wildfires": 973
+    },
+    {
+      "month": 6,
+      "month_name": "Jun",
+      "total_events": 5109,
+      "storms": 2603,
+      "wildfires": 1999
+    },
+    {
+      "month": 7,
+      "month_name": "Jul",
+      "total_events": 7872,
+      "storms": 5176,
+      "wildfires": 2205
+    },
+    {
+      "month": 8,
+      "month_name": "Aug",
+      "total_events": 11561,
+      "storms": 8637,
+      "wildfires": 2454
+    },
+    {
+      "month": 9,
+      "month_name": "Sep",
+      "total_events": 11158,
+      "storms": 9473,
+      "wildfires": 1217
+    },
+    {
+      "month": 10,
+      "month_name": "Oct",
+      "total_events": 7280,
+      "storms": 6371,
+      "wildfires": 527
+    },
+    {
+      "month": 11,
+      "month_name": "Nov",
+      "total_events": 4004,
+      "storms": 3497,
+      "wildfires": 243
+    },
+    {
+      "month": 12,
+      "month_name": "Dec",
+      "total_events": 3614,
+      "storms": 3036,
+      "wildfires": 265
+    }
+  ],
+  "category_distribution": [
+    {
+      "name": "Severe Storms",
+      "count": 53539,
+      "percentage": 76.6
+    },
+    {
+      "name": "Wildfires",
+      "count": 11307,
+      "percentage": 16.2
+    },
+    {
+      "name": "Sea and Lake Ice",
+      "count": 3590,
+      "percentage": 5.1
+    },
+    {
+      "name": "Volcanoes",
+      "count": 1126,
+      "percentage": 1.6
+    },
+    {
+      "name": "Floods",
+      "count": 316,
+      "percentage": 0.5
+    },
+    {
+      "name": "Earthquakes",
+      "count": 13,
+      "percentage": 0.0
+    },
+    {
+      "name": "Drought",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "name": "Dust and Haze",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "name": "Landslides",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "name": "Water Color",
+      "count": 1,
+      "percentage": 0.0
+    }
+  ],
+  "yearly_trends": [
+    {
+      "year": 2016,
+      "total": 1923,
+      "storms": 1642,
+      "wildfires": 199
+    },
+    {
+      "year": 2017,
+      "total": 1974,
+      "storms": 1356,
+      "wildfires": 411
+    },
+    {
+      "year": 2018,
+      "total": 2913,
+      "storms": 2281,
+      "wildfires": 392
+    },
+    {
+      "year": 2019,
+      "total": 2098,
+      "storms": 1512,
+      "wildfires": 295
+    },
+    {
+      "year": 2020,
+      "total": 2247,
+      "storms": 1528,
+      "wildfires": 429
+    },
+    {
+      "year": 2021,
+      "total": 2636,
+      "storms": 1672,
+      "wildfires": 537
+    },
+    {
+      "year": 2022,
+      "total": 2133,
+      "storms": 1442,
+      "wildfires": 157
+    },
+    {
+      "year": 2023,
+      "total": 2450,
+      "storms": 1724,
+      "wildfires": 97
+    },
+    {
+      "year": 2024,
+      "total": 7554,
+      "storms": 1650,
+      "wildfires": 5615
+    },
+    {
+      "year": 2025,
+      "total": 5409,
+      "storms": 1631,
+      "wildfires": 3065
+    }
+  ],
+  "available_visualizations": {
+    "static_images": {
+      "hotspot_analysis.png": {
+        "path": "/analysis_images/hotspot_analysis.png",
+        "category": "advanced_analysis",
+        "title": "Hotspot Analysis"
+      },
+      "spatial_clusters.png": {
+        "path": "/analysis_images/spatial_clusters.png",
+        "category": "advanced_analysis",
+        "title": "Spatial Clusters"
+      },
+      "temporal_spatial_patterns.png": {
+        "path": "/analysis_images/temporal_spatial_patterns.png",
+        "category": "advanced_analysis",
+        "title": "Temporal Spatial Patterns"
+      },
+      "regional_analysis.png": {
+        "path": "/analysis_images/regional_analysis.png",
+        "category": "advanced_analysis",
+        "title": "Regional Analysis"
+      },
+      "category_concentration.png": {
+        "path": "/analysis_images/category_concentration.png",
+        "category": "advanced_analysis",
+        "title": "Category Concentration"
+      },
+      "temporal_analysis.png": {
+        "path": "/analysis_images/temporal_analysis.png",
+        "category": "basic_analysis",
+        "title": "Temporal Analysis"
+      },
+      "category_analysis.png": {
+        "path": "/analysis_images/category_analysis.png",
+        "category": "basic_analysis",
+        "title": "Category Analysis"
+      },
+      "geographic_distribution.png": {
+        "path": "/analysis_images/geographic_distribution.png",
+        "category": "basic_analysis",
+        "title": "Geographic Distribution"
+      }
+    },
+    "interactive_maps": {
+      "3d_density_surface.html": {
+        "path": "/analysis_images/3d_density_surface.html",
+        "title": "3D Density Surface"
+      },
+      "3d_spacetime_scatter.html": {
+        "path": "/analysis_images/3d_spacetime_scatter.html",
+        "title": "3D Spacetime Scatter"
+      },
+      "3d_globe_interactive.html": {
+        "path": "/analysis_images/3d_globe_interactive.html",
+        "title": "3D Globe Interactive"
+      },
+      "temporal_dashboard.html": {
+        "path": "/analysis_images/temporal_dashboard.html",
+        "title": "Temporal Dashboard"
+      },
+      "master_dashboard.html": {
+        "path": "/analysis_images/master_dashboard.html",
+        "title": "Master Dashboard"
+      },
+      "narrative_map.html": {
+        "path": "/analysis_images/narrative_map.html",
+        "title": "Narrative Map"
+      },
+      "comparison_map.html": {
+        "path": "/analysis_images/comparison_map.html",
+        "title": "Comparison Map"
+      }
+    },
+    "html_dashboards": {}
+  }
+}
