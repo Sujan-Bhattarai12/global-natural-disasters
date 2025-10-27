@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T16:26:31.421763",
+  "generated_at": "2025-10-26T19:19:23.083389",
   "metadata": {
     "total_observations": 69899,
     "unique_events": 15242,
@@ -243,84 +243,120 @@
       "month_name": "Jan",
       "total_events": 3960,
       "storms": 3287,
-      "wildfires": 350
+      "wildfires": 350,
+      "volcanoes": 118,
+      "floods": 2,
+      "ice": 203
     },
     {
       "month": 2,
       "month_name": "Feb",
       "total_events": 4565,
       "storms": 3917,
-      "wildfires": 277
+      "wildfires": 277,
+      "volcanoes": 76,
+      "floods": 0,
+      "ice": 291
     },
     {
       "month": 3,
       "month_name": "Mar",
       "total_events": 4383,
       "storms": 3471,
-      "wildfires": 421
+      "wildfires": 421,
+      "volcanoes": 110,
+      "floods": 4,
+      "ice": 377
     },
     {
       "month": 4,
       "month_name": "Apr",
       "total_events": 2832,
       "storms": 1974,
-      "wildfires": 376
+      "wildfires": 376,
+      "volcanoes": 91,
+      "floods": 22,
+      "ice": 369
     },
     {
       "month": 5,
       "month_name": "May",
       "total_events": 3561,
       "storms": 2097,
-      "wildfires": 973
+      "wildfires": 973,
+      "volcanoes": 97,
+      "floods": 58,
+      "ice": 336
     },
     {
       "month": 6,
       "month_name": "Jun",
       "total_events": 5109,
       "storms": 2603,
-      "wildfires": 1999
+      "wildfires": 1999,
+      "volcanoes": 93,
+      "floods": 44,
+      "ice": 369
     },
     {
       "month": 7,
       "month_name": "Jul",
       "total_events": 7872,
       "storms": 5176,
-      "wildfires": 2205
+      "wildfires": 2205,
+      "volcanoes": 111,
+      "floods": 51,
+      "ice": 329
     },
     {
       "month": 8,
       "month_name": "Aug",
       "total_events": 11561,
       "storms": 8637,
-      "wildfires": 2454
+      "wildfires": 2454,
+      "volcanoes": 94,
+      "floods": 58,
+      "ice": 314
     },
     {
       "month": 9,
       "month_name": "Sep",
       "total_events": 11158,
       "storms": 9473,
-      "wildfires": 1217
+      "wildfires": 1217,
+      "volcanoes": 79,
+      "floods": 49,
+      "ice": 337
     },
     {
       "month": 10,
       "month_name": "Oct",
       "total_events": 7280,
       "storms": 6371,
-      "wildfires": 527
+      "wildfires": 527,
+      "volcanoes": 94,
+      "floods": 27,
+      "ice": 258
     },
     {
       "month": 11,
       "month_name": "Nov",
       "total_events": 4004,
       "storms": 3497,
-      "wildfires": 243
+      "wildfires": 243,
+      "volcanoes": 81,
+      "floods": 0,
+      "ice": 179
     },
     {
       "month": 12,
       "month_name": "Dec",
       "total_events": 3614,
       "storms": 3036,
-      "wildfires": 265
+      "wildfires": 265,
+      "volcanoes": 82,
+      "floods": 1,
+      "ice": 228
     }
   ],
   "category_distribution": [
@@ -380,75 +416,75 @@
       "year": 2016,
       "total": 1923,
       "storms": 1642,
-      "wildfires": 199
+      "wildfires": 199,
+      "volcanoes": 38
     },
     {
       "year": 2017,
       "total": 1974,
       "storms": 1356,
-      "wildfires": 411
+      "wildfires": 411,
+      "volcanoes": 52
     },
     {
       "year": 2018,
       "total": 2913,
       "storms": 2281,
-      "wildfires": 392
+      "wildfires": 392,
+      "volcanoes": 72
     },
     {
       "year": 2019,
       "total": 2098,
       "storms": 1512,
-      "wildfires": 295
+      "wildfires": 295,
+      "volcanoes": 49
     },
     {
       "year": 2020,
       "total": 2247,
       "storms": 1528,
-      "wildfires": 429
+      "wildfires": 429,
+      "volcanoes": 48
     },
     {
       "year": 2021,
       "total": 2636,
       "storms": 1672,
-      "wildfires": 537
+      "wildfires": 537,
+      "volcanoes": 54
     },
     {
       "year": 2022,
       "total": 2133,
       "storms": 1442,
-      "wildfires": 157
+      "wildfires": 157,
+      "volcanoes": 68
     },
     {
       "year": 2023,
       "total": 2450,
       "storms": 1724,
-      "wildfires": 97
+      "wildfires": 97,
+      "volcanoes": 50
     },
     {
       "year": 2024,
       "total": 7554,
       "storms": 1650,
-      "wildfires": 5615
+      "wildfires": 5615,
+      "volcanoes": 46
     },
     {
       "year": 2025,
       "total": 5409,
       "storms": 1631,
-      "wildfires": 3065
+      "wildfires": 3065,
+      "volcanoes": 28
     }
   ],
   "available_visualizations": {
     "static_images": {
-      "hotspot_analysis.png": {
-        "path": "/analysis_images/hotspot_analysis.png",
-        "category": "advanced_analysis",
-        "title": "Hotspot Analysis"
-      },
-      "spatial_clusters.png": {
-        "path": "/analysis_images/spatial_clusters.png",
-        "category": "advanced_analysis",
-        "title": "Spatial Clusters"
-      },
       "temporal_spatial_patterns.png": {
         "path": "/analysis_images/temporal_spatial_patterns.png",
         "category": "advanced_analysis",
@@ -458,6 +494,16 @@
         "path": "/analysis_images/regional_analysis.png",
         "category": "advanced_analysis",
         "title": "Regional Analysis"
+      },
+      "hotspot_analysis.png": {
+        "path": "/analysis_images/hotspot_analysis.png",
+        "category": "advanced_analysis",
+        "title": "Hotspot Analysis"
+      },
+      "spatial_clusters.png": {
+        "path": "/analysis_images/spatial_clusters.png",
+        "category": "advanced_analysis",
+        "title": "Spatial Clusters"
       },
       "category_concentration.png": {
         "path": "/analysis_images/category_concentration.png",
@@ -478,9 +524,67 @@
         "path": "/analysis_images/geographic_distribution.png",
         "category": "basic_analysis",
         "title": "Geographic Distribution"
+      },
+      "multi_panel_figure.png": {
+        "path": "/analysis_images/multi_panel_figure.png",
+        "category": "basic_analysis",
+        "title": "Multi Panel Figure"
+      },
+      "infographic_map.png": {
+        "path": "/analysis_images/infographic_map.png",
+        "category": "basic_analysis",
+        "title": "Infographic Map"
       }
     },
     "interactive_maps": {
+      "07_seasonal_risk_calendar.html": {
+        "path": "/analysis_images/07_seasonal_risk_calendar.html",
+        "title": "07 Seasonal Risk Calendar"
+      },
+      "04_3d_intelligence_globe.html": {
+        "path": "/analysis_images/04_3d_intelligence_globe.html",
+        "title": "04 3D Intelligence Globe"
+      },
+      "01_executive_dashboard.html": {
+        "path": "/analysis_images/01_executive_dashboard.html",
+        "title": "01 Executive Dashboard"
+      },
+      "05_regional_impact_analysis.html": {
+        "path": "/analysis_images/05_regional_impact_analysis.html",
+        "title": "05 Regional Impact Analysis"
+      },
+      "02_risk_hotspot_map.html": {
+        "path": "/analysis_images/02_risk_hotspot_map.html",
+        "title": "02 Risk Hotspot Map"
+      },
+      "03_temporal_risk_analysis.html": {
+        "path": "/analysis_images/03_temporal_risk_analysis.html",
+        "title": "03 Temporal Risk Analysis"
+      },
+      "06_trend_forecasting.html": {
+        "path": "/analysis_images/06_trend_forecasting.html",
+        "title": "06 Trend Forecasting"
+      },
+      "seasonal_comparison.html": {
+        "path": "/analysis_images/seasonal_comparison.html",
+        "title": "Seasonal Comparison"
+      },
+      "kde_heatmap.html": {
+        "path": "/analysis_images/kde_heatmap.html",
+        "title": "Kde Heatmap"
+      },
+      "intensity_contours.html": {
+        "path": "/analysis_images/intensity_contours.html",
+        "title": "Intensity Contours"
+      },
+      "narrative_map.html": {
+        "path": "/analysis_images/narrative_map.html",
+        "title": "Narrative Map"
+      },
+      "comparison_map.html": {
+        "path": "/analysis_images/comparison_map.html",
+        "title": "Comparison Map"
+      },
       "3d_density_surface.html": {
         "path": "/analysis_images/3d_density_surface.html",
         "title": "3D Density Surface"
@@ -501,15 +605,34 @@
         "path": "/analysis_images/master_dashboard.html",
         "title": "Master Dashboard"
       },
-      "narrative_map.html": {
-        "path": "/analysis_images/narrative_map.html",
-        "title": "Narrative Map"
+      "cinematic_timeline.html": {
+        "path": "/analysis_images/cinematic_timeline.html",
+        "title": "Cinematic Timeline"
       },
-      "comparison_map.html": {
-        "path": "/analysis_images/comparison_map.html",
-        "title": "Comparison Map"
+      "cumulative_buildup.html": {
+        "path": "/analysis_images/cumulative_buildup.html",
+        "title": "Cumulative Buildup"
+      },
+      "cluster_map.html": {
+        "path": "/analysis_images/cluster_map.html",
+        "title": "Cluster Map"
+      },
+      "density_heatmap.html": {
+        "path": "/analysis_images/density_heatmap.html",
+        "title": "Density Heatmap"
+      },
+      "heatmap_overlay.html": {
+        "path": "/analysis_images/heatmap_overlay.html",
+        "title": "Heatmap Overlay"
+      },
+      "animated_timeline.html": {
+        "path": "/analysis_images/animated_timeline.html",
+        "title": "Animated Timeline"
+      },
+      "interactive_scatter_map.html": {
+        "path": "/analysis_images/interactive_scatter_map.html",
+        "title": "Interactive Scatter Map"
       }
-    },
-    "html_dashboards": {}
+    }
   }
 }
