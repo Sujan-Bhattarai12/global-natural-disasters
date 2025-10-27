@@ -5,6 +5,7 @@ A geospatial analysis and visualization suite for natural disaster events from N
 ```
 ## Output Structure
 ```
+```
 project/
 ├── eonet_cleaned.csv                 # Processed dataset
 ├── analysis_outputs/                 # EDA visualizations
