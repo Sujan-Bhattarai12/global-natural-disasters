@@ -2,7 +2,7 @@
 
 A geospatial analysis and visualization suite for natural disaster events from NASA's Earth Observatory Natural Event Tracker (EONET) API, spanning 2000-2025. 
 
-Please visit here for the Output: https://vercel-nhq6.vercel.app/
+Please visit here for the Output: https://naturalclimateevents.vercel.app/
 
 ```
 ## Output Structure
